@@ -1,2 +1,2 @@
-var = "Adnin Atmadewati Ashrini"
+var nama = "Adnin Atmadewati Ashrini"
 console.log(nama)
